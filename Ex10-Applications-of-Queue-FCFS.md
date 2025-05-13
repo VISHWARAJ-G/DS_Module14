@@ -1,5 +1,5 @@
 # Ex10 Applications of Queue – FCFS
-## DATE: 12-03-2025
+## DATE: 14-03-2025
 ## AIM:
 To write a C function to calculate the turnaround time of each process given their burst time and waiting time in First Come first Serve scheduling algorithm.
 ## Algorithm
