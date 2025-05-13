@@ -1,6 +1,6 @@
 # Ex6 Dequeue Elements from Circular Queue
 
-## DATE: 20.02.2025
+## DATE: 10.03.2025
 ## AIM:
 To write a C program to delete three elements from the filled circular queue.
 
